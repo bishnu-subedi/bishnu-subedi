@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**firebolt7/firebolt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... Personal Projects
 - 🌱 I’m currently learning ... Django
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter](https://twitter.com/7firebolt)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm not a muggle.
--->
