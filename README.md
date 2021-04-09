@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![picture alt](https://media.giphy.com/media/cE02lboc8JPO/giphy.gif "HI")
+![picture alt](http://gph.is/2EBGQJK "HI")
 
 
 ## I love Python.
