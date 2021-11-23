@@ -29,5 +29,8 @@
 
 <h3><b>You can reach me at</b></h3>
 <p>
-<a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+<a href="https://twitter.com/firebolt7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+</p>
+<p>
+<a href="https://firebolt7.github.io/" target="_blank"><img alt="Firebolt7" src="https://img.shields.io/badge/Firebolt7-About%20me-blue" /></a> 
 </p>
