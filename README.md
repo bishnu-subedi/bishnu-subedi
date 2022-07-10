@@ -23,8 +23,8 @@
 
 
 <a href="https://github.com/bishnu-subedi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firebolt7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firebolt7&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bishnu-subedi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bishnu-subedi&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 <h3><b>You can reach me at</b></h3>
