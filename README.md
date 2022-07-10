@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an enthusiast Programmer and a software engineer!
+#### I'm an enthusiast, a passionate Programmer!
 
 ### Languages, tools and technologies I've worked with:
 
