@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an Engineer, data enthusiast and a software developer! 
+#### I'm an enthusiast Programmer and a software engineer!
 
 ### Languages, tools and technologies I've worked with:
 
