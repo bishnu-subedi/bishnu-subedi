@@ -29,8 +29,8 @@
 
 <h3><b>You can reach me at</b></h3>
 <p>
-<a href="https://twitter.com/7firebolt" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+<a href="https://twitter.com/_Bishnu_Subedi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
 </p>
 <p>
-<a href="https://firebolt7.github.io/" target="_blank"><img alt="Firebolt7" src="https://img.shields.io/badge/Firebolt7-About%20me-blue" /></a> 
+<a href="https://bishnu-subedi.github.io/" target="_blank"><img alt="Bishnu Subedi" src="https://img.shields.io/badge/Bishnu-Subedi-About%20me-blue" /></a> 
 </p>
