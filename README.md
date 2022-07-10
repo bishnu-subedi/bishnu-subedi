@@ -32,5 +32,5 @@
 <a href="https://twitter.com/_Bishnu_Subedi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
 </p>
 <p>
-<a href="https://bishnu-subedi.github.io/" target="_blank"><img alt="Bishnu Subedi" src="https://img.shields.io/badge/Bishnu-Subedi-About%20me-blue" /></a> 
+<a href="https://bishnu-subedi.github.io/" target="_blank"><img alt="Bishnu Subedi" src="https://img.shields.io/badge/Bishnu Subedi-About%20me-blue" /></a> 
 </p>
