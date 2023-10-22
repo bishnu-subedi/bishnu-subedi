@@ -1,4 +1,4 @@
-### Hi there 👋
+<! --- ### Hi there 👋
 
 #### I'm an enthusiast, and a passionate Programmer!
 
@@ -34,3 +34,4 @@
 <p>
 <a href="https://bishnu-subedi.github.io/" target="_blank"><img alt="Bishnu Subedi" src="https://img.shields.io/badge/Bishnu Subedi-About%20me-blue" /></a> 
 </p>
+-->
